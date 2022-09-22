@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493aa2fc-6761-4f5d-b551-74f27e36405f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Testcase/android_ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcase/android_ui/android_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/api_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/api_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/case_config" beforeDir="false" afterPath="$PROJECT_DIR$/Common/case_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/log.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -195,6 +190,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="461" y="158" key="SettingsEditor" timestamp="1663846111897">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="158" key="SettingsEditor/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1663846111897" />
     <state x="687" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1663399921345">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

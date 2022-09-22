@@ -5,6 +5,7 @@
 @File    : log.py
 '''
 import logging
+
 class Log():
     def my_log(self,msg,level):
     # 定义一个日志收集器
