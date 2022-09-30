@@ -39,7 +39,6 @@ class BasePage:
             logging.info("等待结束，等待时间为{}".format(end-start))
         except:
             logging.exception("等待元素可见失败！！！")
-            logging.exception("等待元素可见失败！！！")
             self.save_screenshot(doc)
             raise
 

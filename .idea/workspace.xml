@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493aa2fc-6761-4f5d-b551-74f27e36405f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-code-one/0925/one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-code-one/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/basepage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <recent name="D:\test_automation\test_automation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.android_one">
+  <component name="RunManager" selected="Python.one">
     <configuration name="android_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test_automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +123,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study-code-one/0925" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-code-one/0925/one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="unittest_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test_automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,29 +166,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in login_two.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="test_automation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcase/API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testcase/API/login_two.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.one" />
         <item itemvalue="Python.android_one" />
         <item itemvalue="Python.log" />
         <item itemvalue="Python.api_base" />
         <item itemvalue="Python.unittest_run" />
-        <item itemvalue="Python tests.pytest in login_two.py" />
       </list>
     </recent_temporary>
   </component>
@@ -190,15 +198,31 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1880" height="337" key="GridCell.Tab.0.bottom" timestamp="1664077969601">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1880" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1664077969601" />
+    <state width="1880" height="337" key="GridCell.Tab.0.center" timestamp="1664077969601">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1880" height="337" key="GridCell.Tab.0.center/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1664077969601" />
+    <state width="1880" height="337" key="GridCell.Tab.0.left" timestamp="1664077969601">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1880" height="337" key="GridCell.Tab.0.left/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1664077969601" />
+    <state width="1880" height="337" key="GridCell.Tab.0.right" timestamp="1664077969601">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1880" height="337" key="GridCell.Tab.0.right/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1664077969601" />
     <state x="461" y="158" key="SettingsEditor" timestamp="1663846111897">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="158" key="SettingsEditor/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1663846111897" />
-    <state x="687" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1663399921345">
+    <state x="687" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1664527648378">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="-1282" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/-1920.3.1920.1032@-1920.3.1920.1032" timestamp="1662270263575" />
-    <state x="687" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1663399921345" />
+    <state x="687" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1664527648377" />
     <state x="687" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1663399710036" />
   </component>
   <component name="XDebuggerManager">
