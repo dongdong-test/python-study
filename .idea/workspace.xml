@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493aa2fc-6761-4f5d-b551-74f27e36405f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/study-code-one/0925/one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-code-one/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/basepage.py" afterDir="false" />
     </list>
@@ -218,11 +216,11 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="158" key="SettingsEditor/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1663846111897" />
-    <state x="687" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1664527648378">
+    <state x="687" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1666360974378">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="-1282" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/-1920.3.1920.1032@-1920.3.1920.1032" timestamp="1662270263575" />
-    <state x="687" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1664527648377" />
+    <state x="687" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.74.1920.1032@0.0.1920.1032" timestamp="1666360974378" />
     <state x="687" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1663399710036" />
   </component>
   <component name="XDebuggerManager">
